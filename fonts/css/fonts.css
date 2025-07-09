@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Khand';
+    src: url('../fonts/Khand-Medium.eot');
+        src: url('../fonts/Khand-Medium.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/Khand-Medium.woff') format('woff'),
+            url('../fonts/Khand-Medium.ttf') format('truetype');
+        font-weight: 500;
+        font-style: normal;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('../fonts/Khand-SemiBold.eot');
+    src: url('../fonts/Khand-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Khand-SemiBold.woff') format('woff'),
+        url('../fonts/Khand-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Khand';
+    src: url('../fonts/Khand-Bold.eot');
+    src: url('../fonts/Khand-Bold.eot') format('embedded-opentype'),
+        url('../fonts/Khand-Bold.woff') format('woff'),
+        url('../fonts/Khand-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
